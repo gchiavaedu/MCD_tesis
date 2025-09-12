@@ -1,0 +1,14 @@
+# Minuta 2025.09.12
+
+- Tema sugerido: Monitoreo de Glaciares
+  - buscar glaciares que ya hayan sido estudiados con imágenes satelitales
+- Desarrollar la Descripción del problema
+- Armar un Cronograma de 10 meses. Incluir Objetivos (sugeridos):
+  1.Realizar el Estado del arte acerca de los diferentes tipos de glaciares existentes y métodos que se utilizan en su estudio.
+  2.Descargar una secuencia temporal de imágenes satelitales ópticas que involucren glaciares.
+  3.Estudiar indicadores especiales para la detección de nieve y medición de la extención de glaciares.
+  4.Diseñar y entrenar modelos de machine learning para la interpretación de estas imágenes con el objetivo de medir la extención de los glaciares y observar cambios en el tiempo.
+  5.Validación de los modelos con metodologías preexistentes.
+  6.Evaluación de resultados.
+  7.Escritura de la tesis.
+- índices: https://www.indexdatabase.de/db/i.php
